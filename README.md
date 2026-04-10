@@ -17,6 +17,16 @@ This project analyzes healthcare data to find insights about patients, diseases,
 - Billing varies significantly across patients
 - Gender distribution is balanced (50% male, 50% female)
 
+# Visual Insights
+Medical Condition/Disease Distribution
+![Medical Condition](images/medical_condition.png)
+
+Age Distribution
+![Age](images/age.png)
+
+Gender Distribution
+![Gender](images/gender.png)
+
 # Project Structure
 - data/ → dataset
 - notebooks/ → analysis notebook

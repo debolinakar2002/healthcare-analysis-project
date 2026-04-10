@@ -34,5 +34,4 @@ This project analyzes healthcare data to find insights about patients, diseases,
 
 This project demonstrates beginner-to-intermediate level data analysis skills.
 
-3. Run Jupyter Notebook:
-   jupyter notebook
+

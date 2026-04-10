@@ -18,14 +18,15 @@ This project analyzes healthcare data to find insights about patients, diseases,
 - Gender distribution is balanced (50% male, 50% female)
 
 # Visual Insights
-Medical Condition/Disease Distribution
-![Medical Condition](images/medical_condition.png)
 
-Age Distribution
-![Age](images/age.png)
+### Medical Condition / Disease Distribution
+![Medical](./medical_condition.png)
 
-Gender Distribution
-![Gender](images/gender.png)
+### Age Distribution
+![Age](./age.png)
+
+### Gender Distribution
+![Gender](./gender.png)
 
 # Project Structure
 - data/ → dataset

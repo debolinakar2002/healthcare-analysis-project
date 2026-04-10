@@ -8,6 +8,7 @@ This project analyzes healthcare data to find insights about patients, diseases,
 - Pandas
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
 # Key Insights
 - Most common diseases: Arthritis, Diabetes, Hypertension
@@ -19,11 +20,19 @@ This project analyzes healthcare data to find insights about patients, diseases,
 # Project Structure
 - data/ → dataset
 - notebooks/ → analysis notebook
+- src/ → Python Scripts
 - README.md → project documentation
 
 # How to Run
 1. Install required libraries:
-   pip install pandas matplotlib seaborn
+   pip install pandas matplotlib seaborn jupyter notebook
 
-2. Run Jupyter Notebook:
+# Future Improvements
+- Add machine learning prediction model  
+- Create interactive dashboard  
+- Deploy as web app  
+
+This project demonstrates beginner-to-intermediate level data analysis skills.
+
+3. Run Jupyter Notebook:
    jupyter notebook
